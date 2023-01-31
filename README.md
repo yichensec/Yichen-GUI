@@ -55,7 +55,7 @@ pip3 install -r requirements.txt
 
 逸尘优化后配置效果图：
 
-![1](./1.jpg)
+<img src="./1.jpg">
 
 
 
